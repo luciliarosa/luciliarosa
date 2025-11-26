@@ -1,7 +1,7 @@
 ## Hi! I am Lucilia Rosa 👋
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning JavaScript
+- 🔭 I'm currently working on data automation and development
+- 🌱 I'm currently learning Python
 - 📫 How to reach me: lucilia.passos.rosa@outlook.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love chocolate 🍫
