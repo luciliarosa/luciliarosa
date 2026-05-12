@@ -1,5 +1,5 @@
 ### Hi! I am Lucilia Rosa 👋
-Backend-focused Python developer with experience in automation, data processing, and business-oriented solutions.
+Fullstack-focused Python developer with experience in automation, data processing, and business-oriented solutions.
 
 - Currently working with Python automation and Microsoft Power Platform
 - Deepening my skills in Python, backend development, APIs, and databases
