@@ -1,4 +1,4 @@
-### Hi! I am Lucilia Rosa 👋
+### Hi! I am Lucilia Rosa
 Fullstack-focused Python developer with experience in automation, data processing, and business-oriented solutions.
 
 - Currently working with Python automation and Microsoft Power Platform
@@ -7,17 +7,15 @@ Fullstack-focused Python developer with experience in automation, data processin
 - Open to international and remote opportunities
   
 
-### 👩‍💻 About Me
-I am a Python-focused developer specializing in automation, data processing, and process optimization.  
-Currently, I build automation solutions using Python and Microsoft Power Platform to improve operational efficiency and reduce manual work.
+### About Me
+Software Developer with experience in Python automation, SQL development, system integration, and business process optimization. 
 
-With a strong background in systems support and development, I am able to understand business challenges and translate them into reliable and scalable technical solutions.  
-I am continuously improving my backend skills, focusing on Python, APIs, databases, and software engineering best practices.
+Skilled in designing and implementing solutions that reduce manual work, improve data accuracy, and streamline operations. 
 
-My professional goal is to grow as a backend Python developer and contribute to well-structured, maintainable, and scalable systems.
+Experienced in building automation tools, integrating platforms through APIs, and developing internal applications to support business needs. Background in infrastructure, technical support, and software development, providing a broad understanding of enterprise systems and technology environments.
 
 
-### 🌐 Social Media & Contact
+### Social Media & Contact
 <div>
   <a href="https://www.linkedin.com/in/lucilia-rosa" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -33,7 +31,7 @@ My professional goal is to grow as a backend Python developer and contribute to 
   </a>
 </div>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 |--------|--------------|
@@ -42,7 +40,7 @@ My professional goal is to grow as a backend Python developer and contribute to 
 | **Tools & Platforms** | <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" height="30"/> Git · <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="30"/> VS Code · <img src="https://img.icons8.com/?size=100&id=dFQ55kLSmeny&format=png&color=000000" height="30"/> Power APPs · <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" height="30"/> Power Automate · <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="30"/> Power BI |
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 <a href="https://github.com/luciliarosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciliarosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciliarosa&layout=compact&langs_count=16&theme=dracula"/>
