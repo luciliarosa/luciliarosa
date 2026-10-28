@@ -15,10 +15,10 @@
 
 I am a **Software Developer** focused on building resilient business solutions through **Python automation, backend APIs, relational database engineering (SQL), and modern web applications**.
 
-- 💼 Currently developing automated pipelines, custom APIs, and business systems using **Python, SQL, and the Microsoft Power Platform**.
-- 🛠️ Actively deepening expertise in **scalable backend architectures, RESTful APIs, data workflows, and Docker containerization**.
-- 🌍 **Open to remote and international opportunities** (Full-Stack, Python, and Automation roles).
-- 📍 Based in Brazil &bull; Native in Portuguese &bull; Advanced in English *(Canadian ESL experience &bull; TOEIC certified)*.
+- Currently developing automated pipelines, custom APIs, and business systems using **Python, SQL, and the Microsoft Power Platform**.
+- Actively deepening expertise in **scalable backend architectures, RESTful APIs, data workflows, and Docker containerization**.
+- **Open to remote and international opportunities** (Full-Stack, Python, and Automation roles).
+- Based in Brazil &bull; Native in Portuguese &bull; Advanced in English *(Canadian ESL experience &bull; TOEIC certified)*.
 
 ---
 
@@ -40,30 +40,31 @@ I am a **Software Developer** focused on building resilient business solutions t
 
 ### 📌 Featured Projects
 
-#### 💻 [Professional Portfolio](https://lucilliarosa.com.br)
+#### [Professional Portfolio](https://lucilliarosa.com.br)
 - Production-ready bilingual (PT-BR / EN) portfolio showcasing software engineering projects, interactive simulators, and an embedded PDF credentials viewer.
 - **Stack:** Vanilla JavaScript (ES6+), CSS3 Grid/Flexbox, Python FastAPI backend, Vercel.
 - **Links:** [Live Website](https://lucilliarosa.com.br) &bull; [GitHub Repository](https://github.com/luciliarosa/Portfolio)
 
-#### 📓 [Lucilia's Notebook — Digital Study Platform](https://github.com/luciliarosa)
+#### [Lucilia's Notebook — Digital Study Platform](https://github.com/luciliarosa)
 - Interactive study platform and technical knowledge base covering full-stack concepts, algorithms, and interview prep.
 - Fully containerized with Docker and Nginx Alpine for deployment on Render.
 - **Stack:** HTML5, CSS3, JavaScript, Docker, Nginx, Render.
+- **Links:** [Live Demo](lucilias-notebook.onrender.com) &bull; [GitHub Repository](https://github.com/luciliarosa/Lucilias-Notebook)
 
-#### 🎓 [LuciCollege — Academic Interface](https://luci-college.vercel.app)
+#### [LuciCollege — Academic Interface](https://luci-college.vercel.app)
 - Educational web application developed to explore modern component architecture and clean UI workflows.
 - **Stack:** React, JavaScript, CSS3, Vercel.
-- **Links:** [Live Demo](https://luci-college.vercel.app) &bull; [GitHub Repository](https://github.com/luciliarosa/LuciCollege)
+- **Links:** [Live Demo](lucicollege.onrender.com) &bull; [GitHub Repository](https://github.com/luciliarosa/LuciCollege)
 
 ---
 
 ### 🎓 Education & Certifications
 
-- 🎓 **Postgraduate Degree:** Full-Stack Software Engineering — *Faculdade Descomplica*
-- 🎓 **Associate Degree:** Systems Analysis and Software Development (ADS) — *FATEC Carapicuíba*
-- 🎓 **Associate Degree:** Information Technology Management (GTI) — *FATEC Barueri*
-- 🇨🇦 **International ESL & Communications:** SGIC (St. George International College) — *Vancouver, Canada*
-- 📜 **Official Proficiency Credential:** TOEIC (Test of English for International Communication)
+- **Postgraduate Degree:** Full-Stack Software Engineering — *Faculdade Descomplica*
+- **Associate Degree:** Systems Analysis and Software Development (ADS) — *FATEC Carapicuíba*
+- **Associate Degree:** Information Technology Management (GTI) — *FATEC Barueri*
+- **International ESL & Communications:** SGIC (St. George International College) — *Vancouver, Canada*
+- **Official Proficiency Credential:** TOEIC (Test of English for International Communication)
 
 ---
 
